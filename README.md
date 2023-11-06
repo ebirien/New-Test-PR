@@ -1,2 +1,2 @@
 # New-Test-PR
-This is a test repo for practicals
+This is a test repo for practicals. I have updated the readme file.
